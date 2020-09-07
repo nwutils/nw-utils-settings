@@ -1,0 +1,8 @@
+{
+    "name": "nw-utils-settings",
+    "main": "index.html",
+    "window": {
+        "width": 250,
+        "height": 100
+    }
+}
